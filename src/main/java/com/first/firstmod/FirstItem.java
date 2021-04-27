@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.first.firstmod;
 
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
